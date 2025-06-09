@@ -20,4 +20,4 @@ A Python script to automate deployment of PHP projects to XAMPP/WAMP `htdocs` di
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/php-deployer.git
+   git clone https://github.com/Mchiir/php-deployer.git
